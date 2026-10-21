@@ -1,0 +1,164 @@
+{
+  "file": "female-atlas.glb",
+  "sha256": "de5733210985407208deea72a2f6936724f444f0f2ab44b66b169db555193c97",
+  "bytes": 31548720,
+  "nodes": 1095,
+  "meshes": 888,
+  "matched_nodes": {
+    "brain": [
+      "Allen_brain",
+      "Allen_brain_hemisphere_L",
+      "Allen_basal_forebrain_L",
+      "Allen_white_matter_of_forebrain_L",
+      "Allen_white_matter_of_hindbrain_L",
+      "Allen_brain_hemisphere_R",
+      "Allen_basal_forebrain_R",
+      "Allen_white_matter_of_forebrain_R",
+      "Allen_white_matter_of_hindbrain_R",
+      "Allen_midbrain_tegmentum_R",
+      "Allen_midbrain_tegmentum_L"
+    ],
+    "heart": [
+      "VH_F_heart",
+      "VH_F_papillary_muscle_of_heart",
+      "VH_F_papillary_muscle_of_heart_ant",
+      "VH_F_papillary_muscle_of_heart_antlat",
+      "VH_F_papillary_muscle_of_heart_med",
+      "VH_F_papillary_muscle_of_heart_pos",
+      "VH_F_papillary_muscle_of_heart_posmed",
+      "VH_F_blood_vasculature_of_heart",
+      "VH_F_veins_of_heart",
+      "VH_F_arteries_of_heart"
+    ],
+    "lungs": [
+      "VH_F_lungs",
+      "VH_F_left_lungs_L",
+      "VH_F_lungs_R"
+    ],
+    "liver": [
+      "VH_F_ducts_of_liver",
+      "VH_F_liver",
+      "VH_F_gastric_impression_of_liver",
+      "VH_F_suprarenal_impression_of_liver",
+      "VH_F_renal_impression_of_liver",
+      "VH_F_duodenal_impression_of_liver",
+      "VH_F_esophageal_impression_of_liver",
+      "VH_F_colic_impression_of_liver",
+      "VH_F_capsule_of_the_liver",
+      "VH_F_bare_area_of_liver",
+      "VH_F_diaphragmatic_surface_of_liver",
+      "VH_F_couinaud_liver_segment",
+      "VH_F_left_lobe_of_liver",
+      "VH_F_liver_left_lateral_lobe",
+      "VH_F_liver_left_medial_lobe",
+      "VH_F_right_lobe_of_liver",
+      "VH_F_ligament_of_liver",
+      "VH_F_coronary_ligament_of_liver",
+      "VH_F_triangular_ligament_of_liver",
+      "VH_F_round_ligament_of_liver"
+    ],
+    "kidney": [
+      "VH_F_kidney",
+      "VH_F_left_kidney",
+      "VH_F_kidney_capsule_L",
+      "VH_F_hilum_of_kidney_L",
+      "VH_F_cortex_of_kidney_L",
+      "VH_F_outer_cortex_of_kidney_L",
+      "VH_F_right_kidney",
+      "VH_F_kidney_capsule_R",
+      "VH_F_hilum_of_kidney_R",
+      "VH_F_cortex_of_kidney_R",
+      "VH_F_outer_cortex_of_kidney_R",
+      "VH_F_kidney_calyx_L",
+      "VH_F_blood_vasculature_of_kidney",
+      "VH_F_arteries_of_kidney",
+      "VH_F_veins_of_kidney"
+    ],
+    "gallbladder": [
+      "VH_F_ducts_of_gallbladder",
+      "VH_F_gallbladder_",
+      "VH_F_gallbladder",
+      "VH_F_blood_vasculature_of_gallbladder",
+      "VH_F_arteries_of_gallbladder",
+      "VH_F_veins_of_gallbladder"
+    ],
+    "spleen": [
+      "VH_F_blood_vasculature_of_spleen",
+      "VH_F_arteries_of_spleen",
+      "VH_F_veins_of_spleen",
+      "VH_F_spleen",
+      "VH_F_gastric_surface_of_spleen",
+      "VH_F_diaphragmatic_surface_of_spleen",
+      "VH_F_colic_surface_of_spleen",
+      "VH_F_hilum_of_spleen",
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "urinary_bladder": [
+      "VH_F_urinary_bladder",
+      "VH_F_fundus_of_urinary_bladder_dome",
+      "VH_F_urinary_bladder_neck_smooth_muscle",
+      "VH_F_fundus_of_urinary_bladder_base",
+      "VH_F_trigone_of_urinary_bladder"
+    ],
+    "pancreas": [
+      "VH_F_ducts_of_pancreas",
+      "VH_F_pancreas",
+      "VH_F_tail_of_pancreas",
+      "VH_F_body_of_pancreas",
+      "VH_F_head_of_pancreas",
+      "VH_F_neck_of_pancreas"
+    ],
+    "small_intestine": [
+      "VH_F_small_intestine"
+    ],
+    "colon": [
+      "VH_F_colon",
+      "VH_F_hepatic_flexure_of_colon",
+      "VH_F_transverse_colon",
+      "VH_F_ascending_colon",
+      "VH_F_descending_colon",
+      "VH_F_sigmoid_colon",
+      "VH_F_splenic_flexure_of_colon"
+    ],
+    "uterus": [
+      "VH_F_ligaments_of_uterus_and_ovaries",
+      "VH_F_round_ligament_of_uterus",
+      "VH_F_right_round_ligament_of_uterus",
+      "VH_F_left_round_ligament_of_uterus",
+      "VH_F_cardinal_ligament_of_uterus",
+      "VH_F_right_cardinal_ligament_of_uterus",
+      "VH_F_left_cardinal_ligament_of_uterus",
+      "VH_F_uterus",
+      "VH_F_body_of_uterus",
+      "VH_F_fundus_of_uterus",
+      "VH_F_posterior_wall_of_uterus",
+      "VH_F_anterior_wall_of_uterus",
+      "VH_F_blood_vasculature_of_uterus"
+    ],
+    "ovary": [
+      "VH_F_suspensory_ligament_of_ovary",
+      "VH_F_suspensory_ligament_of_ovary_R",
+      "VH_F_suspensory_ligament_of_ovary_L",
+      "VH_F_ovary",
+      "VH_F_left_ovary",
+      "VH_F_right_ovary"
+    ],
+    "pelvis": [
+      "VH_F_renal_pelvis_ureter",
+      "VH_F_renal_pelvis_ureter_R",
+      "VH_F_renal_pelvis_R",
+      "VH_F_renal_pelvis_ureter_L",
+      "VH_F_renal_pelvis_L",
+      "VH_F_pelvis"
+    ],
+    "vertebrae": [
+      "VH_F_vertebrae"
+    ],
+    "sacrum": [
+      "VH_F_sacrum"
+    ],
+    "coccyx": [
+      "VH_F_coccyx"
+    ]
+  }
+}

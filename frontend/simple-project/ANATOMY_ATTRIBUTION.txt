@@ -1,0 +1,18 @@
+3D ANATOMY ATTRIBUTION
+
+FEMALE
+Femora Atlas uses the HuBMAP 3D Reference Organ Set for Female v1.5.
+Geometry is CC BY 4.0. The optimized browser asset is female-atlas.glb.
+Source: https://github.com/zer01dollars/female-body-atlas
+
+MALE
+Anatria3D uses real Z-Anatomy / BodyParts3D male atlas geometry.
+The male anatomy assets are CC BY-SA 4.0.
+Source: https://github.com/Nurkan1/Anatria-3D
+Pinned anatomy revision used by this build: 6320bd6
+
+APPLICATION BEHAVIOR
+The viewer fetches the real anatomy data at runtime using a primary URL and
+fallback URL. No procedural anatomy, spheres, boxes, cylinders, or placeholder
+organs are generated. The selected real mesh receives a visible pulse.
+Selecting an organ does not auto-zoom the camera.

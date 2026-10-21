@@ -1,0 +1,33 @@
+{
+  "female": {
+    "name": "Femora Atlas / HuBMAP 3D Reference Organ Set for Female v1.5",
+    "model": "/anatomy/female-atlas.glb",
+    "local": true,
+    "license": "CC BY 4.0",
+    "source": "https://github.com/zer01dollars/female-body-atlas"
+  },
+  "male": {
+    "name": "Anatria3D / Z-Anatomy -> BodyParts3D male atlas",
+    "revision": "6320bd6",
+    "license": "CC BY-SA 4.0",
+    "remote_systems": [
+      "muscular",
+      "skeletal",
+      "nervous",
+      "cardiovascular",
+      "respiratory",
+      "digestive",
+      "renal",
+      "reproductive",
+      "regional",
+      "articular"
+    ]
+  },
+  "behavior": {
+    "selection": "real anatomical mesh only",
+    "highlight": "organ-specific color + emissive pulse",
+    "skin": "transparent/subdued",
+    "camera": "whole-body fit only; no organ auto-zoom",
+    "report_explorer": "removed; use the single See This in 3D Anatomy action"
+  }
+}

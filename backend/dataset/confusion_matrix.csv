@@ -1,0 +1,10 @@
+,chronic back pain,common cold,flu,gastritis,migraine,pneumonia,primary insomnia,sprain or strain,tension headache
+chronic back pain,179,0,0,0,0,0,0,1,0
+common cold,0,172,7,0,0,2,0,0,0
+flu,0,2,133,1,0,0,0,0,0
+gastritis,0,0,1,135,0,0,0,0,0
+migraine,0,0,1,0,43,0,0,0,0
+pneumonia,0,10,2,0,0,231,0,0,0
+primary insomnia,0,0,0,0,0,0,38,0,0
+sprain or strain,0,0,0,0,0,0,0,242,0
+tension headache,0,0,0,0,1,0,0,0,55
